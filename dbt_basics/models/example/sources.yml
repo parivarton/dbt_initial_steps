@@ -1,0 +1,7 @@
+sources:
+  - name: HDI_SOURCES
+    schema: DBT_MPARIVARTON
+    database: PC_DBT_DB
+    tables:
+      - name: HDI_DATA
+        identifier: HDI
